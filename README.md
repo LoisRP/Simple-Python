@@ -1,8 +1,8 @@
 # Project done for UBC Python course
 
 This program consists of two Python files:
-* query_orders_file-C.py
-* find_elements_file-C.py
+* query_orders_file.py
+* find_elements_file.py
 In addition, query_orders_file.py references northwind2.sqlite, a SQLite database file.
 
 ##Step 1:

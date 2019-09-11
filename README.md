@@ -5,12 +5,12 @@ This program consists of two Python files:
 * find_elements_file.py
 In addition, query_orders_file.py references northwind2.sqlite, a SQLite database file.
 
-##Step 1:
+## Step 1:
 Execute query_orders_file.py.
 
 This generates the northwind_elements_demo.xml, based on a database query provided in the assignment. The results of the database query are transformed into XML, with the elements shaped by templates, and saved as the northwind_elements_demo.xml. In addition, any extended characters are replaced with characters in the Latin-1 character set.
 
-##Step 2:
+## Step 2:
 Execute find_elements_file.py. 
 
 This file analyzes the contents of northwind_elements_demo.xml to find quantitative data. For example, which product had the highest quantity sold?
